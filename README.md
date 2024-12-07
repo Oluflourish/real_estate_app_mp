@@ -4,7 +4,7 @@
 
 1. [Design on Dribble (Real Estate App)](https://dribbble.com/shots/real-estate-app)
 2. [Installable APK build](https://github.com/Oluflourish/real_estate_app_mp/blob/master/ss/real_estate_app_mp.apk)
-3. [App Demo Video (.mp4)](https://github.com/Oluflourish/real_estate_app_mp/blob/master/ss/real_estate_app_mp_demo.mp4)
+3. [App Demo Video (.mp4)](https://drive.google.com/file/d/17GirAAW5-0elQUVqn_kNXftDlV9sa5eq/view?usp=sharing)
 
 ## 📸 Result
 
